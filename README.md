@@ -7,7 +7,7 @@ Computer Science student at **Virginia Tech**.
 
 ### Projects
 - **Gameboy Emulator** — Simple emulator written in C for 32KB Gameboy ROMs, using SDL2 for windowing and handling input.
-- **ICM Calculator App** — Poker tournament Independent Chip Model calculator built with Spring Boot and vanilla HTML/CSS/JS.
+- **ICM Calculator App** — Poker tournament equity calculator using Independent Chip Model using Spring Boot.
 
 ---
 
